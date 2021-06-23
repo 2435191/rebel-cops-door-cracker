@@ -1,0 +1,1 @@
+In the game *Rebel Cops*, there are quite a few password-protected doors... this utility takes care of that. Be warned: it might take a few hours even at maximum speed.
